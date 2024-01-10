@@ -14,4 +14,4 @@ Here's an example of how to use the `CheckingAccount` class:
 
 ## Contribution
 
-"' Haziq Mushtaq 2224071 "'
+> Haziq Mushtaq 2224071 
