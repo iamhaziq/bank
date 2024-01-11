@@ -1,7 +1,7 @@
 
 
 public class CheckingAccount extends Account {
-    private double insufficientFee = 50;
+    private double insufficientFee = 10;
 
     public CheckingAccount(double init_balance) {
         super(init_balance);
